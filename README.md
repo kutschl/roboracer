@@ -62,7 +62,7 @@ sudo apt install -y \
   curl htop bluetooth \
   jstest-gtk evtest wget rsync \
   joystick net-tools apt-utils \
-  x11-apps
+  x11-apps tmux
 ```
 
 Cleanup:
